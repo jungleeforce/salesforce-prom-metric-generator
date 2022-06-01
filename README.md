@@ -1,2 +1,2 @@
-# salesforce-prom-metric-generator
+# salesforce-prometheus-metric-generator
 Salesforce Prom Metric Generator
